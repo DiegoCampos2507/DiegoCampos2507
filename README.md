@@ -1,16 +1,13 @@
-## Hi there 👋
+## 🚀 About Me
+Hi, I’m Diego — Web Developer with experience in React, JavaScript, and building full-stack projects.
 
-<!--
-**DiegoCampos2507/DiegoCampos2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+React • JavaScript • Vite • CSS • Axios • REST APIs
 
-Here are some ideas to get you started:
+## 💼 Main Projects
+⭐ [BeiraMar Front-End](https://github.com/BeiraMar-G2/BeiraMar-front-end)  
+⭐ [BeiraMar Back-End](https://github.com/BeiraMar-G2/beiramar-backend)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+LinkedIn => https://www.linkedin.com/in/diego-campos-38a08b245/ • 
+Email => diegocs.campos75@gmail.com
